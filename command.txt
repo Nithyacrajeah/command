@@ -2,3 +2,4 @@ git init
 git status
 git add -A
 git commit _m"this is a initialize"
+git log
